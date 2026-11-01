@@ -1,4 +1,19 @@
+# --- SUMBER RESMI & MEDIA OLAHRAGA UTAMA ---
+https://www.manutd.com/en/rss
+https://www.skysports.com/rss/12950
+https://feeds.bbci.co.uk/sport/football/rss.xml
+https://www.espn.com/espn/rss/soccer/news
+https://www.goal.com/feeds/en/news
+https://www.theguardian.com/football/manchester-united/rss
+
+# --- SUMBER KOMUNITAS & DISKUSI (RED DEVILS) ---
 https://www.reddit.com/r/reddevils/.rss
 https://www.reddit.com/r/reddevils/new/.rss
 https://www.reddit.com/r/reddevils/search.rss?q=flair%3Anews&restrict_sr=1
 https://www.reddit.com/r/reddevils/search.rss?q=flair%3ARumour&restrict_sr=1
+
+# --- GOOGLE NEWS RSS OTOMATIS (UNTUK VOLUME TINGGI) ---
+https://news.google.com/rss/search?q=Manchester+United&hl=en-GB&gl=GB&ceid=GB:en
+https://news.google.com/rss/search?q=Old+Trafford&hl=en-GB&gl=GB&ceid=GB:en
+https://news.google.com/rss/search?q=Man+Utd+transfer+news&hl=en-GB&gl=GB&ceid=GB:en
+https://news.google.com/rss/search?q=Ruben+Amorim+Manchester+United&hl=en-GB&gl=GB&ceid=GB:en
